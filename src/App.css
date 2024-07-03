@@ -1,0 +1,12 @@
+.App{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+.btns{
+  display: flex;
+  gap:15px;
+}
